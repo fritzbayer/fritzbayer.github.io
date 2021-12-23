@@ -3,4 +3,6 @@ layout: post
 title: "Talks"
 ---
 
-T.B.D.
+I publish corresponding slides online. If you have questions about the content, feel free to contact me.
+
+2021, December 19th Marginalization in Bayesian Networks: Integrating Exact and Approximate Inference, International Conference of the ERCIM on Computational and Methodological Statistics (CMStatistics 2021), London, United Kingdom
