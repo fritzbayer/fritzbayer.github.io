@@ -3,7 +3,7 @@ layout: post
 title: "Talks"
 ---
 
-I publish corresponding slides online. If you have questions about the content, feel free to contact me.
+I publish my slides online. If you have questions about the content, feel free to contact me.
 
 - 2021, Dec 19, Marginalization in Bayesian Networks: Integrating Exact and Approximate Inference [[PDF](https://nbviewer.org/github/fritzbayer/fritzbayer.github.io/blob/master/presentation_04_CMS2021.pdf)] 
 
