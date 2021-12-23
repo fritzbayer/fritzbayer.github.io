@@ -16,9 +16,9 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "publications.md"}
-  - {file: "software.md"}
-  - {file: "talks.md"}
+  - {file: "publications.html"}
+  - {file: "software.html"}
+  - {file: "talks.html"}
   - {file: "tools.md"}
   - {file: "index.html"}
   - {file: "contact.html"}
