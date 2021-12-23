@@ -21,7 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "talks.md"}
   - {file: "tools.md"}
   - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "contact.html"}
+#  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
