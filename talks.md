@@ -11,4 +11,4 @@ I publish my slides online. If you have questions about the content, feel free t
 
   International Conference of the ERCIM on Computational and Methodological Statistics (CMStatistics 2021), London, United Kingdom
 
-{% include embed.html url="https://youtu.be/f_IQTyx1UQU" %}
+  {% include embed.html url="https://youtu.be/f_IQTyx1UQU" %}
