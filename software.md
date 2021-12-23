@@ -3,4 +3,4 @@ layout: post
 title: "Software"
 ---
 
-T.B.D.
+- R package **SubGroupSeparation** available on [github](https://github.com/cbg-ethz/SubGroupSeparation)
