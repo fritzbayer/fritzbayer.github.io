@@ -3,7 +3,7 @@ title:  "Publications"
 layout: post
 ---
 
-* Bayer FM, Beerenwinkel N, Moffa G, Kuipers J. Estimating the normalizing constant in Bayesian networks, arXiv preprint [https://arxiv.org/abs/2112.09217](https://arxiv.org/abs/2112.09217), 2021
+* Bayer FM, Moffa G, Beerenwinkel N, Kuipers J. Marginalization in Bayesian Networks: Integrating Exact and Approximate Inference, arXiv preprint [https://arxiv.org/abs/2112.09217](https://arxiv.org/abs/2112.09217), 2021
 
 * Bayer FM, Jezzard P, Smith AK. Unbiased Signal equation for quantitative magnetisation transfer in balanced steady-state free precession, Magnetic Resonance in Medicine, 2021
 
