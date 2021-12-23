@@ -5,5 +5,5 @@ title: ""
 
 I'm a PhD student at ETH Zürich working causal network structures in machine learning. Before my PhD, I studied Physics at the University of Freiburg, Imperial College London and University of Oxford.
 
-Main Research Interest: *Statistics and Machine learning* (Bayesian Networks, Causality, Inference, missing data), *Interdisciplinary Applications* (Genomics, Cancer, Personalized Medicine)
+Main research interest: *Statistics and machine learning* (Bayesian networks, causality, inference, missing data); *Interdisciplinary applications* (genomics, cancer, personalized medicine)
 
