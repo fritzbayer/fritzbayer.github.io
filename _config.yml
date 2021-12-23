@@ -17,11 +17,11 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md"}
-  - {file: "software.html"}
-  - {file: "talks.html"}
+  - {file: "software.md"}
+  - {file: "talks.md"}
   - {file: "tools.md"}
   - {file: "index.html"}
-  - {file: "contact.html"}
+  - {file: "contact.md"}
 #  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
