@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-I'm a PhD student at ETH Zürich working causal network structures in machine learning. Before my PhD, I studied Physics at Imperial College London, University of Freiburg and University of Oxford.
+I'm a PhD student at ETH Zürich working causal network structures in machine learning. Before my PhD, I studied Physics at the University of Freiburg, Imperial College London and University of Oxford.
 
 Main Research Interest: *Statistics and Machine learning* (Bayesian Networks, Causality, Inference, missing data), *Interdisciplinary Applications* (Genomics, Cancer, Personalized Medicine)
 
