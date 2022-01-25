@@ -34,6 +34,9 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+# Google Analytics
+google_analytics: UA-218088840-1
+
 remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
