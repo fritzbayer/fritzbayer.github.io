@@ -27,6 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:frbayer at ethz.ch"}
   - {title: Github, icon: github, url: "https://github.com/fritzbayer"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/fritz-bayer/"}
 #  - {title: Scholar, icon: scholar, url: "https://scholar.google.com/citations?user=2TwrSx4AAAAJ&hl=en&oi=sra"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
