@@ -1,6 +1,6 @@
 title: "Fritz Bayer"
 author: "Fritz Bayer"
-description: [ETH Zürich](https://ethz.ch/en.html)
+description: <a href="https://ethz.ch/en.html">ETH Zürich</a>
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
