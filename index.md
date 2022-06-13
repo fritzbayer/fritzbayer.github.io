@@ -1,6 +1,4 @@
----
-layout: page
----
+
 
 <img src="https://github.com/fritzbayer/fritzbayer.github.io/blob/master/assets/img.PNG" alt="Untitled" />
 
