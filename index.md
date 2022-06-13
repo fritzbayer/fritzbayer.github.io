@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 <img src="https://github.com/fritzbayer/fritzbayer.github.io/blob/master/assets/img.JPEG" alt="Untitled" />
