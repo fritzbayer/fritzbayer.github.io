@@ -8,6 +8,7 @@ date_format: "%B %d, %Y"
 
 url: 'https://fritzbayer.github.io/' # your main domain
 baseurl: '' # if you're using custom domain keep this blank example: baseurl: ''
+image_path: assets
 
 # Layout
 
