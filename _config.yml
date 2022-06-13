@@ -6,6 +6,9 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+url: 'https://fritzbayer.github.io/' # your main domain
+baseurl: 'fritzbayer.github.io/' # if you're using custom domain keep this blank example: baseurl: ''
+
 # Layout
 
 show_social: true         # show footer
