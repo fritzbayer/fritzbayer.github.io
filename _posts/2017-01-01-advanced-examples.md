@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-## Beaty in complexity
+<!--- ## Beaty in complexity -->
 
 ## The Art of Osciallations
 
