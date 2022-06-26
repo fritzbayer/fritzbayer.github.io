@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tools"
+title: "Posts"
 ---
 
 {% if site.show_excerpts %}
