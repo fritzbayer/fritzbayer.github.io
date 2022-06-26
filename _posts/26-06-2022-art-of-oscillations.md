@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "The Art of Osciallations"
 mathjax: true
 layout: post
 categories: media
