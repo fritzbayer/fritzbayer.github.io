@@ -11,7 +11,7 @@ categories: media
 
 This is a small collaborative project together with [Matif Klang](https://open.spotify.com/artist/5xHfRNTnaVVOYHrhLvjhmx?si=VJ9V2dWCSJS7G5R8puN4yQ), whom you can hear playing the saxophone in the short clip. 
 
-Oscillations are the repetitive variation of a measure about a central value. As such, they can be found almost anywhere from as muscial intrument to spin of a particle. In scans of the human brain, we exploit oscillations in the magnetic fields to manipulate the spin of Hydrogen nuclei. In instruments, the oscillation of material is what creates the soundwaves that we hear as tones. The idea of this project was to create a visalization of oscillations that we encounter in our lifes and to illustrate their hidden beauty.
+Oscillations are the repetitive variation of a measure about a central value. As such, they can be found almost anywhere from as muscial intrument to spin of a particle. In scans of the human brain, we exploit oscillations in the magnetic fields to manipulate the spin of Hydrogen nuclei to create an image. In instruments, the oscillation of material is what creates the soundwaves that we hear as tones. The idea of this project was to create a visalization of oscillations that we encounter in our lifes and to illustrate their hidden beauty.
 
 To see the video with music, click [here](https://fritzbayer.github.io/assets/brain_fritz_music_matze_comp.mp4).
 
