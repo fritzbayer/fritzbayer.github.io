@@ -17,5 +17,7 @@ To see the video with music, click [here](https://fritzbayer.github.io/assets/br
 
 <!--- ![](https://user-images.githubusercontent.com/38718986/175808304-be68b2b9-01a2-4934-9870-dadd73359544.gif) -->
 
+The original image, displaying an MRI image of my brain, was acquired by [Alex Smith](https://scholar.google.com/citations?user=oz7bCMwAAAAJ&hl=en) for a study on quantative magnetization transfer, for which I redirived a more accurate signal equation during my master studies (for more details, have a look at our [publication](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28940)).
+
 I plan on adding a bit of code and equations to provide more context to this project in the future.
 
