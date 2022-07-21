@@ -3,7 +3,7 @@ title:  "Publications"
 layout: post
 ---
 
-* Bayer FM, Moffa G, Beerenwinkel N, Kuipers J. [*Marginalization in Bayesian Networks: Integrating Exact and Approximate Inference*](https://arxiv.org/abs/2112.09217), arXiv preprint arXiv:2112.09217, 2021
+* Bayer FM, Moffa G, Beerenwinkel N, Kuipers J. [*High-Dimesnional Inference in Bayesian Networks*](https://arxiv.org/abs/2112.09217), arXiv preprint arXiv:2112.09217, 2021
 
 * Bayer FM, Jezzard P, Smith AK. [*Unbiased signal equation for quantitative magnetisation transfer in balanced steady-state free precession*](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28940), Magnetic Resonance in Medicine, 2021
 
