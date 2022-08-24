@@ -1,5 +1,5 @@
 ---
-title:  "The Art of Osciallations"
+title:  "Osciallations"
 mathjax: true
 layout: post
 categories: media
