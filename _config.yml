@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md"}
   - {file: "software.md"}
   - {file: "talks.md"}
-  - {file: "tools.md"}
+#  - {file: "tools.md"}
   - {file: "index.md"}
   - {file: "contact.md"}
 #  - {file: "README.md"}
