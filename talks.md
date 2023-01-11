@@ -5,7 +5,7 @@ title: "Talks"
 
 I publish my slides online. If you have questions about the content, feel free to contact me.
 
-- Network-Based Clustering of Pan-Cancer Data Accounting for Clinical Covariates [[paper](https://openreview.net/pdf?id=mnvPgQTt2Xs)]  
+- Network-Based Clustering of Pan-Cancer Data Accounting for Clinical Covariates [[paper](https://openreview.net/pdf?id=mnvPgQTt2Xs), [PDF](https://fritzbayer.github.io/presentation_nips.pdf)]  
   NeurIPS LMRL 2022  
   
 {% include embed.html url="https://www.youtube.com/watch?v=jBCzYDG0ags" %}  
