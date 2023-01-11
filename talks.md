@@ -5,10 +5,10 @@ title: "Talks"
 
 I publish my slides online. If you have questions about the content, feel free to contact me.
 
-- Network-Based Clustering of Pan-Cancer Data Accounting for Clinical Covariates [[paper](https://openreview.net/pdf?id=mnvPgQTt2Xs)]  
+- Network-Based Clustering of Pan-Cancer Data Accounting for Clinical Covariates [[PDF](https://fritzbayer.github.io/presentation_nips.pdf), [paper](https://openreview.net/pdf?id=mnvPgQTt2Xs)]  
   NeurIPS LMRL 2022  
-  
-{% include embed.html url="https://www.youtube.com/watch?v=jBCzYDG0ags" %}  
+    
+{% include embed.html url="https://www.youtube.com/embed/jBCzYDG0ags" %}  
 
 
 - Marginalization in Bayesian Networks: Integrating Exact and Approximate Inference [[PDF](https://fritzbayer.github.io/presentation_04_CMS2021.pdf)]  
