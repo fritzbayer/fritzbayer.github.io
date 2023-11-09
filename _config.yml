@@ -28,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
 #  - {title: Mail, icon: envelope, url: "mailto:frbayer at ethz.ch"}
   - {title: Github, icon: github, url: "https://github.com/fritzbayer"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/fritz-bayer/"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/BayesianBayer"} 
+#  - {title: Twitter, icon: twitter, url: "https://twitter.com/BayesianBayer"} 
   - {title: Google, icon: graduation-cap, url: "https://scholar.google.com/citations?user=2TwrSx4AAAAJ&hl=en"} 
 #  - {title: Scholar, icon: scholar, url: "https://scholar.google.com/citations?user=2TwrSx4AAAAJ&hl=en"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
