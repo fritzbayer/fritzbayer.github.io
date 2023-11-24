@@ -3,7 +3,7 @@ title:  "Publications"
 layout: post
 ---
 
-* Bayer FM, Moffa G, Beerenwinkel N, Kuipers J. [*Network-based clustering unveils interconnected landscapes of genomic and clinical features across myeloid malignancies*](https://www.biorxiv.org/content/10.1101/2023.10.25.563992v1), bioRxiv:2023.10.25.563992, 2023
+* Bayer FM, Marco Roncador, Moffa G, Kiyomi Morita, Koichi Takahashi, Beerenwinkel N, Kuipers J. [*Network-based clustering unveils interconnected landscapes of genomic and clinical features across myeloid malignancies*](https://www.biorxiv.org/content/10.1101/2023.10.25.563992v1), bioRxiv:2023.10.25.563992, 2023
 
 * Bayer FM, Moffa G, Beerenwinkel N, Kuipers J. [*Network-Based Clustering of Pan-Cancer Data Accounting for Clinical Covariates*](https://openreview.net/pdf?id=mnvPgQTt2Xs), NeurIPS Workshop on Learning Meaningful Representations of Life, 2022
 
