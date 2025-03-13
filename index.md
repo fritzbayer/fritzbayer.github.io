@@ -4,7 +4,7 @@ layout: page
 
 <img src="https://fritzbayer.github.io/img.JPEG" alt="Untitled" />
 
-PhD in Machine Learning and Computational Biology with expertise in AI for biomedical data (omics, clinical, imaging, EHRs). Combining deep technical knowledge with strategic problem-solving to advance data-driven innovation in precision medicine and accelerate drug development.
+PhD in Machine Learning and Computational Biology with expertise in AI for biomedical data (omics, clinical, imaging, EHRs). Combining deep technical knowledge with strategic problem-solving to advance data-driven innovation in precision medicine and accelerate drug development. 
 
 I am currently a strategy consultant at McKinsey, where I specialise in using artificial intelligence, data-driven approaches, and strategic insights to drive digital transformation in pharma and biotech. 
 
