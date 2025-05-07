@@ -3,7 +3,7 @@ title:  "Publications"
 layout: post
 ---
 
-* Bayer F, Plecko D, Beerenwinkel N, Kuipers J. [*Fair Clustering: A Causal Perspective*](https://arxiv.org/abs/2312.09061), arXiv:2312.09061, 2023
+* Bayer F, Plecko D, Beerenwinkel N, Kuipers J. [*Fair Clustering: A Causal Perspective*](https://www.nature.com/articles/s41467-025-59374-1), Nature Communications, 2025
 
 * Bayer F, Roncador M, Moffa G, Morita K, Takahashi K, Beerenwinkel N, Kuipers J. [*Network-based clustering unveils interconnected landscapes of genomic and clinical features across myeloid malignancies*](https://www.biorxiv.org/content/10.1101/2023.10.25.563992v1), bioRxiv:2023.10.25.563992, 2023
 
