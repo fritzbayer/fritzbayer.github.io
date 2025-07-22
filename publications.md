@@ -5,7 +5,7 @@ layout: post
 
 * Bayer F, Roncador M, Moffa G, Morita K, Takahashi K, Beerenwinkel N, Kuipers J. [*Network-based clustering unveils interconnected landscapes of genomic and clinical features across myeloid malignancies*](https://www.nature.com/articles/s41467-025-59374-1), Nature Communications, 2025
 
-* Bayer F, Plecko D, Beerenwinkel N, Kuipers J. [*Fair Clustering: A Causal Perspective*](https://arxiv.org/abs/2312.09061), arXiv:2312.09061, 2023
+* Bayer F, Plecko D, Beerenwinkel N, Kuipers J. [*Fair Clustering: A Causal Perspective*](https://proceedings.mlr.press/v275/bayer25a.html), PMLR, 2025
 
 * Bayer F, Moffa G, Beerenwinkel N, Kuipers J. [*Network-Based Clustering of Pan-Cancer Data Accounting for Clinical Covariates*](https://openreview.net/pdf?id=mnvPgQTt2Xs), NeurIPS Workshop on Learning Meaningful Representations of Life, 2022
 
